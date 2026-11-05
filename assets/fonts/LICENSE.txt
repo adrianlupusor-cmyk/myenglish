@@ -1,0 +1,8 @@
+The web fonts in this folder are served under the SIL Open Font License, Version 1.1.
+https://openfontlicense.org
+
+Fredoka   Copyright 2016 The Fredoka Project Authors (https://github.com/hafontia/Fredoka-One)
+Nunito    Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)
+
+Files: fredoka-latin.woff2, fredoka-latin-ext.woff2, nunito-latin.woff2,
+nunito-latin-ext.woff2, nunito-cyrillic.woff2 (subsets as published by Google Fonts).
